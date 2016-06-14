@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<salesforceorgs>
+    <salesforceorg id="204B4DF294BD1DF1934E1297C96A9A99">
+        <sourcecontrol branchname="VishalWorkSpace" repoid="165290D6EF45B3CE90F9D8A086CB74C1" scmtype="svn" scmurl="svn+ssh://svn@172.16.1.170/svn/repos/bpm/VishalWorkSpace"/>
+        <usermappings>
+            <user email="vishal.b@techsophy.com" id="00528000001rr8PAAQ" mappingtype="versioncontrol" name="vishal.test1@autorabit.com" scmpassword="" scmusername="svn"/>
+        </usermappings>
+    </salesforceorg>
+    <salesforceorg id="BB931C20E9FF8CDDB146389378F0482C">
+        <sourcecontrol branchname="master" repoid="5C950E1C68ACA28F7D5319A30F625F16" scmtype="git" scmurl="https://github.com/NitkVishal/TestVishalrepo.git"/>
+        <usermappings>
+            <user email="vishal.b@techsophy.com" id="00528000001rr8PAAQ" mappingtype="versioncontrol" name="vishal.test1@autorabit.com" scmpassword="Rabit123" scmusername="NitkVishal"/>
+        </usermappings>
+    </salesforceorg>
+    <salesforceorg id="FB54F26B8486FD680688448A0E1F8B00">
+        <sourcecontrol branchname="Vishal" repoid="1745CC82B84421F95752C97305FA7B87" scmtype="svn" scmurl="svn+ssh://svn@172.16.1.170/svn/repos/bpm/Vishal"/>
+        <usermappings>
+            <user email="visha.b@techsophy.com" id="00528000001rr8PAAQ" mappingtype="versioncontrol" name="vishal.test1@autorabit.com" scmpassword="" scmusername="pavan"/>
+            <user email="vishal.b@techsophy.com" id="00528000001rr8PAAQ" mappingtype="versioncontrol" name="vishal.test1@autorabit.com" scmpassword="" scmusername="pavan"/>
+        </usermappings>
+    </salesforceorg>
+    <salesforceorg id="AD2157D4E70DDB4F3AB06BEE02AAED36">
+        <sourcecontrol branchname="Test1" repoid="2050DC985AA884D53643CFBB0D6E8B87" scmtype="svn" scmurl="svn+ssh://svn@172.16.1.170/svn/repos/bpm/Test1"/>
+        <usermappings>
+            <user email="vishal.b@techsophy.com" id="00528000001rr8PAAQ" mappingtype="versioncontrol" name="vishal.test1@autorabit.com" scmpassword="" scmusername="pavan"/>
+        </usermappings>
+    </salesforceorg>
+    <salesforceorg id="7B88F66903D04A48C8B4F1A5330694D7">
+        <sourcecontrol branchname="master" repoid="245A2D8198272AD4817306E76E784F96" scmtype="git" scmurl="https://github.com/NitkVishal/Books.git"/>
+        <usermappings>
+            <user email="visha.b@techsophy.com" id="00528000001rr8PAAQ" mappingtype="versioncontrol" name="vishal.test1@autorabit.com" scmpassword="c3eR/1wD8s3JIhbZMpxADW222ujxQLMTQRwAS6X7" scmusername="AKIAJYKGSXA76M5BEADQ"/>
+            <user email="vishal.b@techsophy.com" id="00528000001rr8PAAQ" mappingtype="versioncontrol" name="vishal.test1@autorabit.com" scmpassword="Rabit123" scmusername="NitkVishal"/>
+        </usermappings>
+    </salesforceorg>
+    <salesforceorg id="FAE1EE7FF026C409919F07D78F984296">
+        <sourcecontrol branchname="Test0001" repoid="2050DC985AA884D53643CFBB0D6E8B87" scmtype="svn" scmurl="svn+ssh://svn@172.16.1.170/svn/repos/bpm/Test0001"/>
+        <usermappings>
+            <user email="vishal.b@techsophy.com" id="00528000001rr8PAAQ" mappingtype="versioncontrol" name="vishal.test1@autorabit.com" scmpassword="default" scmusername="pavan"/>
+        </usermappings>
+    </salesforceorg>
+    <salesforceorg id="DF3CC1643D8E37A46328303D3EC32788">
+        <sourcecontrol branchname="Vishal" repoid="BCCE1AF839BAAA5F7B87D694BF3BA400" scmtype="svn" scmurl="svn+ssh://svn@172.16.1.170/svn/repos/bpm/Vishal"/>
+        <usermappings>
+            <user email="vishal.b@techsophy.com" id="00528000001rr8PAAQ" mappingtype="versioncontrol" name="vishal.test1@autorabit.com" scmpassword="" scmusername="pavan"/>
+        </usermappings>
+    </salesforceorg>
+    <salesforceorg id="9633A74A3EDFE598C305200675A30A1C">
+        <sourcecontrol branchname="Vishal" repoid="97122135759A6BB81857039027AF3CC0" scmtype="svn" scmurl="svn+ssh://svn@172.16.1.170/svn/repos/bpm/Vishal"/>
+        <usermappings>
+            <user email="vishal.b@techsophy.com" id="00528000001rr8PAAQ" mappingtype="versioncontrol" name="vishal.test1@autorabit.com" scmpassword="" scmusername="pavan"/>
+        </usermappings>
+    </salesforceorg>
+    <salesforceorg id="3237ECD7E0F524A53976486324662AD6">
+        <sourcecontrol branchname="Vishal" repoid="87E9E2A0D01A4645A6C60CCAC6E9D3DC" scmtype="svn" scmurl="svn+ssh://svn@172.16.1.170/svn/repos/bpm/Vishal"/>
+        <usermappings>
+            <user email="vishal.b@techsophy.com" id="00528000001rr8PAAQ" mappingtype="versioncontrol" name="vishal.test1@autorabit.com" scmpassword="" scmusername="pavan"/>
+        </usermappings>
+    </salesforceorg>
+    <salesforceorg id="8F2156DDC3E635906281F020D5605B03">
+        <sourcecontrol branchname="master" repoid="BF70D44BE75F8CFB0851DAE3CAA64F34" scmtype="git" scmurl="https://git-codecommit.us-east-1.amazonaws.com/v1/repos/GitAWSTest"/>
+        <usermappings>
+            <user email="vishal.b@techsophy.com" id="00528000001rr8PAAQ" mappingtype="versioncontrol" name="vishal.test1@autorabit.com" scmpassword="c3eR/1wD8s3JIhbZMpxADW222ujxQLMTQRwAS6X7" scmusername="AKIAJYKGSXA76M5BEADQ"/>
+        </usermappings>
+    </salesforceorg>
+    <salesforceorg id="E5360AA8B36A85C5AE291BF7FA9FC753">
+        <sourcecontrol branchname="master" repoid="B3F05FB2C941E689277CD943B192D314" scmtype="git" scmurl="https://git-codecommit.us-east-1.amazonaws.com/v1/repos/TestCommit"/>
+        <usermappings>
+            <user email="vishal.b@techsophy.com" id="00528000001rr8PAAQ" mappingtype="versioncontrol" name="vishal.test1@autorabit.com" scmpassword="c3eR/1wD8s3JIhbZMpxADW222ujxQLMTQRwAS6X7" scmusername="AKIAJYKGSXA76M5BEADQ"/>
+        </usermappings>
+    </salesforceorg>
+    <salesforceorg id="3F06889F8E88E8656A442DA4B071FD75">
+        <sourcecontrol branchname="master" repoid="245A2D8198272AD4817306E76E784F96" scmtype="git" scmurl="https://github.com/NitkVishal/Books.git"/>
+        <usermappings>
+            <user email="vishal.b@techsophy.com" id="00528000001rr8PAAQ" mappingtype="versioncontrol" name="vishal.test1@autorabit.com" scmpassword="Rabit123" scmusername="NitkVishal"/>
+        </usermappings>
+    </salesforceorg>
+    <salesforceorg id="E1A8B2B466655E84761F331FE8EA5D36">
+        <sourcecontrol branchname="master" repoid="356E99B86AF0F135B03A1BB6C0DA920A" scmtype="git" scmurl="https://git-codecommit.us-east-1.amazonaws.com/v1/repos/TestCommit"/>
+        <usermappings>
+            <user email="vishal.b@techsophy.com" id="00528000001rr8PAAQ" mappingtype="versioncontrol" name="vishal.test1@autorabit.com" scmpassword="c3eR/1wD8s3JIhbZMpxADW222ujxQLMTQRwAS6X7" scmusername="AKIAJYKGSXA76M5BEADQ"/>
+        </usermappings>
+    </salesforceorg>
+    <salesforceorg id="DDCAA8E760E8EF6CE36C54FB31755402">
+        <sourcecontrol branchname="master" repoid="812FD2C6431CB1B35BEB1611B59F31E5" scmtype="git" scmurl="https://git-codecommit.us-east-1.amazonaws.com/v1/repos/arrepo"/>
+        <usermappings>
+            <user email="vishal.b@techsophy.com" id="00528000001rr8PAAQ" mappingtype="versioncontrol" name="vishal.test1@autorabit.com" scmpassword="GlT8NVca+KDmuwHvD1Ursqmz8Yv43wxSS5Iz9F9F" scmusername="AKIAIYATHOERLOSMU2HQ"/>
+        </usermappings>
+    </salesforceorg>
+    <salesforceorg id="E222ECEFCB2E164ED869AF9A1C2B4852">
+        <sourcecontrol branchname="master" repoid="BC33B20ED8897705A5D9A5F33528C268" scmtype="git" scmurl="https://git-codecommit.us-east-1.amazonaws.com/v1/repos/arrepo"/>
+        <usermappings>
+            <user email="vishal.b@techsophy.com" id="00528000001rr8PAAQ" mappingtype="versioncontrol" name="vishal.test1@autorabit.com" scmpassword="GlT8NVca+KDmuwHvD1Ursqmz8Yv43wxSS5Iz9F9F" scmusername="AKIAIYATHOERLOSMU2HQ"/>
+        </usermappings>
+    </salesforceorg>
+    <salesforceorg id="5C4052BA1532DB25CDA372565B0E869F">
+        <sourcecontrol branchname="$/DemoProject/Feature-1.0" repoid="247CA375B7DBC6CD84FDB5EDFEF0754C" scmtype="tfs" scmurl="http://183.82.4.69:8956/tfs/DefaultCollection/"/>
+        <usermappings>
+            <user email="vishal.b@techsophy.com" id="00528000001rr8PAAQ" mappingtype="versioncontrol" name="vishal.test1@autorabit.com" scmpassword="auto@123" scmusername="autorabit"/>
+        </usermappings>
+    </salesforceorg>
+    <salesforceorg id="76F01B361937A1DC1F04A6CF342DEEA7">
+        <sourcecontrol branchname="$/DemoProject/Dev1" repoid="C213F28F634EC80166E7BA35AEFE6092" scmtype="tfs" scmurl="http://172.16.0.229:8080/tfs/DefaultCollection/"/>
+        <usermappings>
+            <user email="vishal.b@techsophy.com" id="00528000001rr8PAAQ" mappingtype="versioncontrol" name="vishal.test1@autorabit.com" scmpassword="auto@123" scmusername="autorabit"/>
+        </usermappings>
+    </salesforceorg>
+    <salesforceorg id="89186D3C33C8D6B27FFE1FE900C1F032">
+        <sourcecontrol branchname="$/DemoProject/Dev1" repoid="C213F28F634EC80166E7BA35AEFE6092" scmtype="tfs" scmurl="http://172.16.0.229:8080/tfs/DefaultCollection/"/>
+        <usermappings>
+            <user email="vishal.b@techsophy.com" id="00528000001rr8PAAQ" mappingtype="versioncontrol" name="vishal.test1@autorabit.com" scmpassword="" scmusername="svn"/>
+        </usermappings>
+    </salesforceorg>
+    <salesforceorg id="7D612FC95E38696D6F01FAF224F919CB">
+        <sourcecontrol branchname="VishalWorkSpace" repoid="6B588F6697AAF4DB780311340112B6ED" scmtype="svn" scmurl="svn+ssh://svn@172.16.1.170/svn/repos/bpm/VishalWorkSpace"/>
+        <usermappings>
+            <user email="vishal.b@techsophy.com" id="00528000001rr8PAAQ" mappingtype="versioncontrol" name="vishal.test1@autorabit.com" scmpassword="auto@123" scmusername="autorabit"/>
+        </usermappings>
+    </salesforceorg>
+    <salesforceorg id="DEF2D11B6D2504785E4B69FED449C749">
+        <sourcecontrol branchname="$/DemoProject/Feature-1.2" repoid="C213F28F634EC80166E7BA35AEFE6092" scmtype="tfs" scmurl="http://172.16.0.229:8080/tfs/DefaultCollection/"/>
+        <usermappings>
+            <user email="vishal.b@techsophy.com" id="00528000002KMOQAA4" mappingtype="versioncontrol" name="vivek.test1@autorabit.com" scmpassword="auto@123" scmusername="autorabit"/>
+            <user email="vishal.b@techsophy.com" id="00528000001rr8PAAQ" mappingtype="versioncontrol" name="vishal.test1@autorabit.com" scmpassword="auto@123" scmusername="autorabit"/>
+        </usermappings>
+    </salesforceorg>
+    <salesforceorg id="82527A3160C7A7EF82518B843FE2CA56">
+        <sourcecontrol branchname="master" repoid="3C6D42AC72130F952687E9894609A7A8" scmtype="git" scmurl="https://github.com/NitkVishal/Books.git"/>
+        <usermappings>
+            <user email="vishal.b@techsophy.com" id="005280000017IncAAE" mappingtype="versioncontrol" name="pavan.m1@autorabit.com" scmpassword="Rabit123" scmusername="NitkVishal"/>
+            <user email="vishal.b@techsophy.com" id="0052800000175LUAAY" mappingtype="versioncontrol" name="saikumar.k1@autorabit.com" scmpassword="Rabit123" scmusername="NitkVishal"/>
+        </usermappings>
+    </salesforceorg>
+    <salesforceorg id="8200E95F6EB83C6C7052689F9E992878">
+        <sourcecontrol branchname="src" repoid="862CBB0CF5D5374BB39834FA9B596DB3" scmtype="svn" scmurl="svn+ssh://svn@172.16.1.170/svn/repos/bpm/Test1/src"/>
+        <usermappings>
+            <user email="vishal.b@techsophy.com" id="00528000000T12iAAC" mappingtype="versioncontrol" name="demo.one@autorabit.com" scmpassword="test123" scmusername="svn"/>
+        </usermappings>
+    </salesforceorg>
+</salesforceorgs>

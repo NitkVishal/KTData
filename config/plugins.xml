@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?><plugins>
+	<plugin category="Requirements Management" id="RM">
+		<item id="1" isenabled="false" key="jira">
+			<name uilabel="JIRA">JIRA</name>
+			<version/>
+			<description/>
+			<properties>
+				<property encryption="false" name="url" uilabel="URL" value=""/>
+				<property encryption="false" name="username" uilabel="User Name" value=""/>
+				<property encryption="true" name="password" uilabel="Password" value=""/>
+			</properties>
+		</item>
+		<item id="2" isenabled="false" key="redmine">
+			<name uilabel="Redmine">Redmine</name>
+			<version>5.5</version>
+			<description/>
+			<properties>
+				<property encryption="false" name="url" uilabel="URL" value=""/>
+				<property encryption="false" name="username" uilabel="User Name" value=""/>
+				<property encryption="true" name="password" uilabel="Password" value=""/>
+				<property encryption="false" ismandatory="false" name="accesskey" uilabel="Access Key" value=""/>
+			</properties>
+		</item>
+	</plugin>
+	<plugin category="Test Case Management" id="TM">
+		<item id="1" isenabled="false" key="testlink">
+			<name uilabel="Test Link">Testlink</name>
+			<version/>
+			<description/>
+			<properties>
+				<property encryption="false" name="accesskey" uilabel="Developer Key" value=""/>
+				<property encryption="false" name="url" uilabel="Host URL" value=""/>
+			</properties>
+		</item>
+	</plugin>
+	<plugin category="Defect Tracker" id="DT">
+		<item id="1" isenabled="false" key="bugzilla">
+			<name uilabel="Bugzilla">Bugzilla</name>
+			<version/>
+			<description/>
+			<properties>
+				<property encryption="false" name="url" uilabel="URL" value=""/>
+				<property encryption="false" name="username" uilabel="User Name" value=""/>
+				<property encryption="true" name="password" uilabel="Password " value=""/>
+			</properties>
+		</item>
+		<item id="2" isenabled="false" key="jira">
+			<name uilabel="JIRA">JIRA</name>
+			<version/>
+			<description/>
+			<properties>
+				<property encryption="false" name="url" uilabel="URL" value=""/>
+				<property encryption="false" name="username" uilabel="User Name" value=""/>
+				<property encryption="true" name="password" uilabel="Password " value=""/>
+			</properties>
+		</item>
+		<item id="3" isenabled="false" key="redmine">
+			<name uilabel="Redmine">Redmine</name>
+			<version>5.5</version>
+			<description/>
+			<properties>
+				<property encryption="false" name="url" uilabel="URL" value=""/>
+				<property encryption="false" name="username" uilabel="User Name" value=""/>
+				<property encryption="true" name="password" uilabel="Password" value=""/>
+				<property encryption="false" ismandatory="false" name="accesskey" uilabel="Access Key" value=""/>
+			</properties>
+		</item>
+	</plugin>
+	<!--plugin category="Notifications" id="NOT">
+		<item id="1" isenabled="false" key="email">
+			<name uilabel="eMail">eMail</name>
+			<version/>
+			<description/>
+			<properties>
+				<property encryption="false" name="smtpserver" uilabel="SMTP server" value=""/>
+				<property encryption="false" name="smtpport" uilabel="SMTP Port" value=""/>
+				<property encryption="false" name="username" uilabel="User Name" value=""/>
+				<property encryption="true" name="password" uilabel="Password" value=""/>
+				<property encryption="false" name="testmail" uilabel="Test E-Mail" value=""/>
+			</properties>
+		</item>
+	</plugin-->
+	<plugin category="Static Code Analysis" id="SCA">
+		<item id="1" isenabled="false" key="pmd">
+			<name uilabel="Java packages for PMD (CSV)">PMD</name>
+			<version>1</version>
+			<description>for Java Code</description>
+		</item>
+		<item id="2" isenabled="false" key="mbv">
+			<name uilabel="Source directories for Multi-Browser (CSV)">MBV</name>
+			<version/>
+			<description/>
+		</item>
+		<item id="3" isenabled="false" key="fxcop">
+			<name uilabel="Executables including path for FxCop (CSV)">FxCop</name>
+			<version/>
+			<description/>
+			<properties name="fxcop.properties">
+				<property name="fxcoppath" uilabel="FXCop Path" value=""/>
+			</properties>
+		</item>
+		<item id="4" isenabled="false" key="apexpmd">
+			<name uilabel="ApexPMD">ApexPMD</name>
+			<version>1</version>
+			<description>for Salesforce</description>
+		</item>
+	</plugin>
+	<plugin category="File Storage" id="FS">
+		<item id="1" isenabled="false" key="ftp">
+			<name uilabel="FTP">FTP</name>
+			<version/>
+			<description/>
+			<properties>
+				<property name="url" uilabel="FTP URL" value=""/>
+				<property encryption="false" name="username" uilabel="User Name" value=""/>
+				<property encryption="true" name="password" uilabel="Password" value=""/>
+			</properties>
+		</item>
+		<item id="2" isenabled="false" key="network">
+			<name uilabel="Network Share">network</name>
+			<version/>
+			<description/>
+			<properties>
+				<property name="url" uilabel="Network Path" value=""/>
+				<property encryption="false" name="username" uilabel="User Name" value=""/>
+				<property encryption="true" name="password" uilabel="Password" value=""/>
+			</properties>
+		</item>
+	</plugin>
+	<plugin category="Test Type" id="TEST">
+		<item id="1" isenabled="false" key="junit">
+			<name uilabel="Junit">Junit</name>
+			<version/>
+			<description/>
+		</item>
+		<item id="2" isenabled="false" key="selenium">
+			<name uilabel="Selenium">Selenium</name>
+			<version/>
+			<description/>
+		</item>
+		<item id="3" isenabled="false" key="soapui">
+			<name uilabel="SOAP UI">SOAPUI</name>
+			<version/>
+			<description/>
+		</item>
+		<item id="4" isenabled="false" key="nunit">
+			<name uilabel="Nunit">Nunit</name>
+			<version/>
+			<description/>
+		</item>
+	</plugin>
+	<plugin category="Source Control" id="SC">
+    <item host="rabit" id="2" isenabled="true" key="git">
+			<name uilabel="GIT">GIT</name>
+			<version/>
+			<description>Cloud Source Control</description>
+			<properties>
+				<property name="url" uilabel="GIT URL" value="wertsdgdfg"/>
+				<property encryption="false" name="username" uilabel="User Name" value="sdfsfsdf"/>
+				<property encryption="true" name="password" uilabel="Password" value="j00GEytb2QsEY36gQpH2mw=="/>
+			</properties>
+		</item>
+    <item host="rabit" id="1" isenabled="true" key="svn">
+			<name uilabel="SVN">SVN</name>
+			<version/>
+			<description/>
+			<properties>
+				<property name="url" uilabel="SVN URL" value="https://subversion.assembla.com/svn/rabitwork/branches"/>
+				<property encryption="false" name="username" uilabel="User Name" value="vishal.b"/>
+				<property encryption="true" name="password" uilabel="Password" value="40+4SyBz3Y1kJw7bPtp0Lw=="/>
+			</properties>
+		</item>
+    <item host="rabit" id="3" isenabled="true" key="tfs">
+			<name uilabel="TFS">TFS</name>
+			<version/>
+			<description/>
+			<properties>
+				<property help="The URL to the Team Foundation Server." name="url" uilabel="TFS URL" value="&#9;http://172.16.0.229:8080/tfs/DefaultCollection"/>
+				<property encryption="false" help="The user name must be formatted either as domain\username or username@domain." name="username" uilabel="User Name" value="autorabit"/>
+				<property encryption="true" name="password" uilabel="Password" value="/7SpnLPcDsAW9haYnxaefQ=="/>
+			</properties>
+		</item>
+		<item host="rabit" id="2" isenabled="true" key="perforce">
+			<name uilabel="Perforce">Perforce</name>
+			<version/>
+			<description>Cloud Source Control</description>
+			<properties>
+				<property name="url" uilabel="GIT URL" value="perforce"/>
+				<property encryption="false" name="username" uilabel="User Name" value="sdfsfsdf"/>
+				<property encryption="true" name="password" uilabel="Password" value="j00GEytb2QsEY36gQpH2mw=="/>
+			</properties>
+		</item>
+    </plugin>
+	<plugin category="Browser" id="Browser">
+		<item id="1" isenabled="false" key="firefox">
+			<name uilabel="Firefox" value="firefox">Firefox</name>
+			<version/>
+			<description/>
+		</item>
+		<item id="2" isenabled="false" key="chrome">
+			<name uilabel="Chrome" value="chrome">Chrome</name>
+			<version/>
+			<description/>
+		</item>
+		<item id="3" isenabled="false" key="ie">
+			<name uilabel="Internet Explorer" value="iexplore">IE</name>
+			<version/>
+			<description/>
+		</item>
+	</plugin>
+	<plugin category="Application Server" id="AS">
+		<item id="1" isenabled="false" key="tomcat">
+			<name uilabel="Tomcat">Tomcat</name>
+			<version/>
+			<description/>
+			<properties>
+				<property name="url" uilabel="URL" value=""/>
+				<property encryption="false" name="username" uilabel="User Name" value=""/>
+				<property encryption="true" name="password" uilabel="Password" value=""/>
+			</properties>
+		</item>
+		<item id="2" isenabled="false" key="weblogic">
+			<name uilabel="Weblogic">Weblogic</name>
+			<version/>
+			<description/>
+			<properties>
+				<property name="url" uilabel="URL" value=""/>
+				<property encryption="false" name="username" uilabel="User Name" value=""/>
+				<property encryption="true" name="password" uilabel="Password" value=""/>
+			</properties>
+		</item>
+	</plugin>
+</plugins>

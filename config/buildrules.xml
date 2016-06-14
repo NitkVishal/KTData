@@ -1,0 +1,5 @@
+<rules>
+	<rule id="1">Make the build as red</rule>
+	<rule id="2">Publish the build but send an email</rule>
+	<rule id="3">Publish the build but do not execute the tests</rule>
+</rules>
