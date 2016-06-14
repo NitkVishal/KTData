@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><usermappings>
+    <user email="vishal.b@techsophy.com">
+        <mappings type="sforg">
+            <sforg sforgid="F7CC854704A6E7509DF66FF39987C6F4" sforguser="00590000002trzaAAA" sforgusername="saikumar.k@techrains.com"/>
+        </mappings>
+        <mappings type="versioncontrol">
+            <versioncontrol branchname="undefined" branchurl="https://github.com/NitkVishal/MicrosoftData.git" password="Rabit123" repoid="A08E351C102DBEB35E8607718D598D9C" type="git" username="NitkVishal"/>
+        </mappings>
+    </user>
+</usermappings>

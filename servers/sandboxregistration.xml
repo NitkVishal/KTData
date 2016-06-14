@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sandboxes>
+    <sandbox authenticationtype="Standard" id="AD2157D4E70DDB4F3AB06BEE02AAED36" key="testnew" name="TestNew" type="Dev">
+        <environment>ProdDev</environment>
+        <password>T+NdxCvbDX5dY5vtjnRUPg==</password>
+        <stoken>JijFXLhAm7xEiGR3gaTjdIOu</stoken>
+        <url>https://login.salesforce.com</url>
+        <username>vishal.test1@autorabit.com</username>
+    </sandbox>
+    <sandbox authenticationtype="Standard" id="7B88F66903D04A48C8B4F1A5330694D7" key="testloc" name="TestLoc" type="Dev">
+        <environment>ProdDev</environment>
+        <password>T+NdxCvbDX5dY5vtjnRUPg==</password>
+        <stoken>JijFXLhAm7xEiGR3gaTjdIOu</stoken>
+        <url>https://login.salesforce.com</url>
+        <username>vishal.test1@autorabit.com</username>
+    </sandbox>
+    <sandbox authenticationtype="Standard" id="FB54F26B8486FD680688448A0E1F8B00" key="testssf" name="TestSSF" type="Dev">
+        <environment>ProdDev</environment>
+        <password>T+NdxCvbDX5dY5vtjnRUPg==</password>
+        <stoken>JijFXLhAm7xEiGR3gaTjdIOu</stoken>
+        <url>https://login.salesforce.com</url>
+        <username>vishal.test1@autorabit.com</username>
+    </sandbox>
+    <sandbox authenticationtype="Standard" id="BB931C20E9FF8CDDB146389378F0482C" key="gitsync" name="GITSYNC" type="Dev">
+        <environment>ProdDev</environment>
+        <password>T+NdxCvbDX5dY5vtjnRUPg==</password>
+        <stoken>JijFXLhAm7xEiGR3gaTjdIOu</stoken>
+        <url>https://login.salesforce.com</url>
+        <username>vishal.test1@autorabit.com</username>
+    </sandbox>
+    <sandbox authenticationtype="Standard" id="204B4DF294BD1DF1934E1297C96A9A99" key="svnsfsync" name="svnSFSync" type="Dev">
+        <environment>ProdDev</environment>
+        <password>T+NdxCvbDX5dY5vtjnRUPg==</password>
+        <stoken>JijFXLhAm7xEiGR3gaTjdIOu</stoken>
+        <url>https://login.salesforce.com</url>
+        <username>vishal.test1@autorabit.com</username>
+    </sandbox>
+    <sandbox authenticationtype="Standard" id="33405EF415F8980EB774D1D8E437AF91" key="ssfss" name="SSFss" type="Dev">
+        <environment>ProdDev</environment>
+        <password>T+NdxCvbDX5dY5vtjnRUPg==</password>
+        <stoken>JijFXLhAm7xEiGR3gaTjdIOu</stoken>
+        <url>https://login.salesforce.com</url>
+        <username>vishal.test1@autorabit.com</username>
+    </sandbox>
+</sandboxes>

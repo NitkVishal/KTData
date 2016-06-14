@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usermapping>
+    <users>
+        <user id="vishal.b@techsophy.com">
+            <project name="SFOrgToOrg">
+                <roles>
+                    <role id="default"/>
+                </roles>
+            </project>
+            <project name="AutoCommitWithGIT">
+                <roles>
+                    <role id="default"/>
+                </roles>
+            </project>
+            <project name="Org1-GIT-Org2">
+                <roles>
+                    <role id="default"/>
+                </roles>
+            </project>
+            <project name="AutoCommit-TFS">
+                <roles>
+                    <role id="default"/>
+                </roles>
+            </project>
+            <project name="AutoCommit-GIT">
+                <roles>
+                    <role id="default"/>
+                </roles>
+            </project>
+            <project name="Test-AC1-Commit"/>
+            <project name="AutoCommitWithGIT"/>
+            <project name="AutoCommitWithGIT"/>
+            <project name="Test-AC1-Commit"/>
+            <project name="Test-AC1-Commit"/>
+            <project name="Test-AC1-Commit"/>
+            <project name="Test-AC1-Commit"/>
+            <project name="Test-AC1-Commit"/>
+            <project name="Test-AC1-Commit"/>
+            <project name="Test-AC1-Commit"/>
+            <project name="Test-AC1-Commit"/>
+            <project name="Test-AC1-Commit"/>
+            <project name="Test-AC1-Commit"/>
+            <project name="Test-AC1-Commit"/>
+            <project name="Test-AC1-Commit"/>
+            <project name="Test-AC1-Commit"/>
+            <project name="Test-AC1-Commit"/>
+            <project name="GitCommit"/>
+            <project name="Test-AC1-Commit"/>
+            <project name="GitCommit"/>
+            <project name="GitCommit"/>
+            <project name="GitCommit"/>
+            <project name="GitCommit"/>
+            <project name="GitCommit"/>
+            <project name="GitCommit"/>
+            <project name="GitCommit"/>
+            <project name="GitCommit"/>
+            <project name="GitCommit"/>
+            <project name="Git-AC2-UC"/>
+            <project name="test"/>
+            <project name="TestGitAC"/>
+            <project name="TestGitAC"/>
+            <project name="GitCommit"/>
+            <project name="GitCommit"/>
+            <project name="GitCommit"/>
+            <project name="TestGitAC"/>
+            <project name="TestGitAC"/>
+            <project name="TestGitAC"/>
+            <project name="GitCommit"/>
+            <project name="SSHWithOutSRC"/>
+            <project name="SSHWithOutSRC"/>
+            <project name="SVNWithSRC"/>
+            <project name="SSHWithOutSRC"/>
+            <project name="TestIssue"/>
+            <project name="BPMTEst Repo"/>
+            <project name="BPMTEst Repo"/>
+            <project name="GitCommit"/>
+            <project name="test"/>
+            <project name="SVN-SSh-AutoCommit"/>
+            <project name="GitCommit"/>
+            <project name="GitCommit"/>
+            <project name="GitCommit"/>
+            <project name="GitCommit"/>
+            <project name="multi"/>
+            <project name="GitCommit"/>
+            <project name="TestGitBranch"/>
+            <project name="TestGitBranch"/>
+            <project name="GitCommit"/>
+            <project name="GitCommit"/>
+            <project name="GitCommit"/>
+            <project name="GitCommit"/>
+            <project name="GitCommit"/>
+            <project name="GitCommit"/>
+            <project name="GitCommit"/>
+            <project name="GitCommit"/>
+            <project name="GitCommit"/>
+            <project name="MUCWithOutSpecialChar"/>
+            <project name="MUCWithOutSpecialChar"/>
+            <project name="MUCWithOutSpecialChar"/>
+            <project name="MUCWithOutSpecialChar"/>
+            <project name="MUCWithOutSpecialChar"/>
+            <projects>
+                <project name="GITTFS"/>
+                <project name="EZ"/>
+                <project name="GitCommit"/>
+                <project name="AWS"/>
+                <project name="AWSCodeCommit"/>
+                <project name="AWSTest"/>
+                <project name="CoceCOmmit"/>
+                <project name="TestCODE"/>
+                <project name="TestGitBranch"/>
+                <project name="BookGIT"/>
+                <project name="AWSPassword"/>
+                <project name="SandBoxToVC"/>
+                <project name="AWSPAss"/>
+                <project name="AWSUserBasedCommit"/>
+                <project name="TestAWSCODE"/>
+                <project name="SVNSSH"/>
+                <project name="SVNSSHUSER"/>
+                <project name="TestSSN"/>
+                <project name="NewSSH"/>
+                <project name="Test00001"/>
+                <project name="TestSSHF"/>
+                <project name="TestLoc1"/>
+                <project name="TEstDEVSSHP"/>
+            </projects>
+            <roles>
+                <role id="default"/>
+            </roles>
+            <salesforceorgs>
+                <sforg sforgid="AD2157D4E70DDB4F3AB06BEE02AAED36" sforguser="00528000001rr8PAAQ" sforgusername="vishal.test1@autorabit.com"/>
+                <sforg sforgid="7B88F66903D04A48C8B4F1A5330694D7" sforguser="00528000001rr8PAAQ" sforgusername="vishal.test1@autorabit.com"/>
+                <sforg sforgid="FB54F26B8486FD680688448A0E1F8B00" sforguser="00528000001rr8PAAQ" sforgusername="vishal.test1@autorabit.com"/>
+                <sforg sforgid="BB931C20E9FF8CDDB146389378F0482C" sforguser="00528000001rr8PAAQ" sforgusername="vishal.test1@autorabit.com"/>
+                <sforg sforgid="204B4DF294BD1DF1934E1297C96A9A99" sforguser="00528000001rr8PAAQ" sforgusername="vishal.test1@autorabit.com"/>
+                <sforg sforgid="33405EF415F8980EB774D1D8E437AF91" sforguser="00528000001rr8PAAQ" sforgusername="vishal.test1@autorabit.com"/>
+            </salesforceorgs>
+            <versioncontrols>
+                <versioncontrol branchname="master" branchurl="https://git-codecommit.us-east-1.amazonaws.com/v1/repos/TestCommit" password="c3eR/1wD8s3JIhbZMpxADW222ujxQLMTQRwAS6X7" repoid="B3F05FB2C941E689277CD943B192D314" type="git" username="AKIAJYKGSXA76M5BEADQ"/>
+                <versioncontrol branchname="master" branchurl="https://github.com/NitkVishal/Books.git" password="Rabit123" repoid="245A2D8198272AD4817306E76E784F96" type="git" username="NitkVishal"/>
+                <versioncontrol branchname="master" branchurl="ssh://git-codecommit.us-east-1.amazonaws.com/v1/repos/TestCommit" password="" repoid="52AAF1A7A7358BDE0422F2A2FBE27F1A" type="git" username="AKIAJYKGSXA76M5BEADQ"/>
+                <versioncontrol branchname="Test1" branchurl="https://git-codecommit.us-east-1.amazonaws.com/v1/repos/TestCommit" password="c3eR/1wD8s3JIhbZMpxADW222ujxQLMTQRwAS6X7" repoid="9204FCBE2565B233D521ED8859B9AF82" type="git" username="AKIAJYKGSXA76M5BEADQ"/>
+                <versioncontrol branchname="master" branchurl="https://github.com/NitkVishal/TestVishalrepo.git" password="Rabit123" repoid="5C950E1C68ACA28F7D5319A30F625F16" type="git" username="NitkVishal"/>
+                <versioncontrol branchname="VishalWorkSpace" branchurl="svn+ssh://svn@172.16.1.170/svn/repos/bpm/VishalWorkSpace" password="" repoid="165290D6EF45B3CE90F9D8A086CB74C1" type="svn" username="svn"/>
+                <versioncontrol branchname="Vishal" branchurl="svn+ssh://svn@172.16.1.170/svn/repos/bpm/Vishal" password="" repoid="2367D9059D737D8FC7BA018F91992FA3" type="svn" username="pavan"/>
+            </versioncontrols>
+        </user>
+    </users>
+</usermapping>

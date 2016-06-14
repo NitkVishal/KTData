@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user activate="true" date="14-Aug-2015 16:00" email="vishal.b@techsophy.com" licensetype="trail" loginattemptscount="0" noofdays="30" orgid="MgEf4VEThN59pWgNqV4nIwvthBXdKsBg" orgname="techsophy.com" remainingdays="" role="orgadmin" token="" type="registered">
+        <country>IN</country>
+        <firstname>vishal</firstname>
+        <infrastructure>shared</infrastructure>
+        <jobtitle>ASE</jobtitle>
+        <lastname>babu</lastname>
+        <noofusers>5</noofusers>
+        <organisation>Techsophy</organisation>
+        <password>40+4SyBz3Y1kJw7bPtp0Lw==</password>
+        <phone>8802901311</phone>
+        <postalcode/>
+        <resettoken><![CDATA[1TuoaX5BCNeIaUzazahj]]></resettoken>
+        <state>AP</state>
+        <timezone>Asia/Kolkata</timezone>
+    </user>
+    <user activate="true" date="20-Aug-2015 11:54" email="babu.v@techsophy.com" loginattemptscount="0" orgid="MgEf4VEThN59pWgNqV4nIwvthBXdKsBg" orgname="techsophy.com" remainingdays="" role="" token="0" type="member">
+        <country>IN</country>
+        <firstname>Babu</firstname>
+        <jobtitle>ASE</jobtitle>
+        <lastname>Vishal</lastname>
+        <onetimecode>L4NY9OjeZHgq</onetimecode>
+        <organisation>Techsophy</organisation>
+        <password>4hEOcGhZJ87XZz1HyrJ9cg==</password>
+        <phone>9980945210</phone>
+        <postalcode>500033</postalcode>
+        <state>MM</state>
+        <timezone>Asia/Kolkata</timezone>
+    </user>
+    <user activate="true" date="20-Aug-2015 11:56" email="chak.v@techsophy.com" loginattemptscount="1" orgid="MgEf4VEThN59pWgNqV4nIwvthBXdKsBg" orgname="techsophy.com" remainingdays="" role="orgadmin" token="0" type="member">
+        <country>IN</country>
+        <firstname>Chak</firstname>
+        <jobtitle>ASE</jobtitle>
+        <lastname>Vishal</lastname>
+        <onetimecode>WLa2BE5noWy3</onetimecode>
+        <organisation>Techsophy</organisation>
+        <password>ANUgBxi2IJE6GYfPH2NzMg==</password>
+        <phone>8802901311</phone>
+        <postalcode>500032</postalcode>
+        <state>MM</state>
+        <timezone>Asia/Kolkata</timezone>
+    </user>
+    <user activate="false" date="20-Aug-2015 14:08" email="visha.b@techsophy.com" loginattemptscount="0" orgid="MgEf4VEThN59pWgNqV4nIwvthBXdKsBg" orgname="techsophy.com" remainingdays="" role="" token="0" type="member">
+        <country>IN</country>
+        <firstname>Vish</firstname>
+        <jobtitle/>
+        <lastname>Babu</lastname>
+        <onetimecode>r5wyIa6txF6a</onetimecode>
+        <organisation>Techsophy</organisation>
+        <password>VishalojCAdKNbn/y2wZA2Q+7ivg==</password>
+        <phone>9874563210</phone>
+        <postalcode/>
+        <state>MM</state>
+        <timezone>Asia/Kolkata</timezone>
+    </user>
+</users>
